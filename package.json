@@ -1,0 +1,8 @@
+{
+  "name": "app-links-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nuhuyahuza/app-links-api.git",
+  "author": "Yahuza Nuhu <nuhuyahuza@yahoo.com>",
+  "license": "MIT"
+}
